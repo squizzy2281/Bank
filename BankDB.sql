@@ -93,3 +93,4 @@ CREATE TABLE Kredyt (
 );// Zmiany w branchA
 // Inna zmiana w main
 >>>>>>> 6621d209a72cf1a903e5ae2fba830a4f59845427
+Zmiana w main
