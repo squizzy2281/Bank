@@ -99,3 +99,6 @@ Zmiana w main
 Skrypt A
 >>>>>>> branchA1
 Zmiana w main
+
+-- Zmiana w gałęzi main
+
