@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CREATE DATABASE BankDB;
 USE BankDB;
 
@@ -94,3 +95,6 @@ CREATE TABLE Kredyt (
 // Inna zmiana w main
 >>>>>>> 6621d209a72cf1a903e5ae2fba830a4f59845427
 Zmiana w main
+=======
+Skrypt A
+>>>>>>> branchA1
