@@ -86,4 +86,4 @@ CREATE TABLE Kredyt (
     status ENUM('aktywny', 'spłacony') NOT NULL,
     FOREIGN KEY (klient_id) REFERENCES Klient(klient_id) ON DELETE CASCADE,
     FOREIGN KEY (pracownik_id) REFERENCES Pracownik(pracownik_id) ON DELETE SET NULL
-);
+);// Zmiany w branchA
