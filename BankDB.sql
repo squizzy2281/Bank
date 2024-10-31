@@ -101,7 +101,14 @@ Zmiana w main
 =======
 Skrypt A
 >>>>>>> branchA1
+<<<<<<< HEAD
 =======
 >>>>>>> main
 >>>>>>> branchA
 Zmiana w branchA
+=======
+Zmiana w main
+>>>>>>> main
+
+-- Zmiana w gałęzi feature
+
