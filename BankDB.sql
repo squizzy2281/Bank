@@ -87,14 +87,21 @@ CREATE TABLE Kredyt (
     status ENUM('aktywny', 'spłacony') NOT NULL,
     FOREIGN KEY (klient_id) REFERENCES Klient(klient_id) ON DELETE CASCADE,
     FOREIGN KEY (pracownik_id) REFERENCES Pracownik(pracownik_id) ON DELETE SET NULL
-<<<<<<< HEAD
 
+<<<<<<< HEAD
+Zmiana w branchA
+=======
 
 =======
 );// Zmiany w branchA
 // Inna zmiana w main
 >>>>>>> 6621d209a72cf1a903e5ae2fba830a4f59845427
 Zmiana w main
+<<<<<<< HEAD
 =======
 Skrypt A
 >>>>>>> branchA1
+=======
+>>>>>>> main
+>>>>>>> branchA
+Zmiana w branchA
