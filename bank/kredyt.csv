@@ -1,0 +1,10 @@
+Field,Type,Null,Key,Default,Extra
+kredyt_id,int,NO,PRI,NULL,auto_increment
+klient_id,int,YES,MUL,NULL,
+pracownik_id,int,YES,MUL,NULL,
+kwota_kredytu,"decimal(15,2)",NO,,NULL,
+oprocentowanie,"decimal(5,2)",NO,,NULL,
+data_udzielenia,date,NO,,NULL,
+okres_kredytowania,int,NO,,NULL,
+termin_splaty,date,NO,,NULL,
+status,"enum('aktywny','spłacony')",NO,,NULL,
