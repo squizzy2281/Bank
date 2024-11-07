@@ -1,0 +1,9 @@
+Field,Type,Null,Key,Default,Extra
+adres_id,int,NO,PRI,NULL,auto_increment
+klient_id,int,NO,MUL,NULL,
+ulica,varchar(100),NO,,NULL,
+numer_budynku,varchar(10),NO,,NULL,
+numer_mieszkania,varchar(10),YES,,NULL,
+miasto,varchar(50),NO,,NULL,
+kod_pocztowy,varchar(10),NO,,NULL,
+kraj,varchar(50),NO,,NULL,
