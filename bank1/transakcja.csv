@@ -1,8 +1,0 @@
-Field,Type,Null,Key,Default,Extra
-transakcja_id,int,NO,PRI,NULL,auto_increment
-konto_id,int,NO,MUL,NULL,
-typ_transakcji,"enum('wpłata','wypłata','przelew')",NO,,NULL,
-kwota,"decimal(15,2)",NO,,NULL,
-waluta,"enum('PLN','USD','EUR','GBP')",NO,,NULL,
-data_transakcji,timestamp,YES,,CURRENT_TIMESTAMP,DEFAULT_GENERATED
-odbiorca_id,int,YES,,NULL,

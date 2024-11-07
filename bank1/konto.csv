@@ -1,8 +1,0 @@
-Field,Type,Null,Key,Default,Extra
-konto_id,int,NO,PRI,NULL,auto_increment
-klient_id,int,NO,MUL,NULL,
-numer_konta,varchar(26),NO,UNI,NULL,
-waluta,"enum('PLN','USD','EUR','GBP')",NO,,NULL,
-saldo,"decimal(15,2)",NO,,0.00,
-typ_konta,"enum('osobiste','oszczędnościowe')",NO,,NULL,
-data_utworzenia,date,NO,,NULL,

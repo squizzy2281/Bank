@@ -1,8 +1,0 @@
-Field,Type,Null,Key,Default,Extra
-pracownik_id,int,NO,PRI,NULL,auto_increment
-imie,varchar(50),NO,,NULL,
-nazwisko,varchar(50),NO,,NULL,
-pesel,varchar(11),NO,UNI,NULL,
-stanowisko,varchar(50),NO,,NULL,
-data_zatrudnienia,date,NO,,NULL,
-pensja,"decimal(10,2)",NO,,NULL,

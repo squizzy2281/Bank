@@ -1,8 +1,0 @@
-Field,Type,Null,Key,Default,Extra
-klient_id,int,NO,PRI,NULL,auto_increment
-imie,varchar(50),NO,,NULL,
-nazwisko,varchar(50),NO,,NULL,
-pesel,varchar(11),NO,UNI,NULL,
-email,varchar(100),NO,,NULL,
-telefon,varchar(15),NO,,NULL,
-data_rejestracji,date,NO,,NULL,

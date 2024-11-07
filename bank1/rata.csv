@@ -1,7 +1,0 @@
-Field,Type,Null,Key,Default,Extra
-rata_id,int,NO,PRI,NULL,auto_increment
-kredyt_id,int,NO,MUL,NULL,
-numer_raty,int,NO,,NULL,
-kwota_raty,"decimal(15,2)",NO,,NULL,
-data_splaty,date,NO,,NULL,
-status,"enum('spłacona','niezapłacona')",NO,,NULL,
